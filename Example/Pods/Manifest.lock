@@ -1,0 +1,16 @@
+PODS:
+  - LZLayerBorder (0.1.0)
+
+DEPENDENCIES:
+  - LZLayerBorder (from `../`)
+
+EXTERNAL SOURCES:
+  LZLayerBorder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZLayerBorder: 4f81bb6777fa9c50dfa10d7ae11e53f81fb4245a
+
+PODFILE CHECKSUM: 42d4512adb811ec802342df967e3906f3124f0a0
+
+COCOAPODS: 1.5.0

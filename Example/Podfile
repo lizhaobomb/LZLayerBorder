@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LZLayerBorder_Example' do
+  pod 'LZLayerBorder', :path => '../'
+
+  target 'LZLayerBorder_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

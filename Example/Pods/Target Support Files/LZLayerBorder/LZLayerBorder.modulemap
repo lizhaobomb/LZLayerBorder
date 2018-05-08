@@ -1,0 +1,6 @@
+framework module LZLayerBorder {
+  umbrella header "LZLayerBorder-umbrella.h"
+
+  export *
+  module * { export * }
+}

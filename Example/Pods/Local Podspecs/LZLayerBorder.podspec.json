@@ -1,0 +1,22 @@
+{
+  "name": "LZLayerBorder",
+  "version": "0.1.0",
+  "summary": "A short description of LZLayerBorder.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lizhaobomb/LZLayerBorder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lizhaobomb": "lizhaobomb@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lizhaobomb/LZLayerBorder.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LZLayerBorder/Classes/**/*"
+}
